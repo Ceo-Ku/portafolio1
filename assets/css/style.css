@@ -4,19 +4,24 @@
 .mayu{
     font-family: 'Oswald', sans-serif bold;
     color: #ffffff;
+    text-align: center;
+    line-height: 4;
+    font-weight: bold;
 }
 header {
-    background-image: url('../img/bg_hero.png');
+    background-image: url('../img/bg_hero.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 .mayuneg{
     font-family: 'Oswald', sans-serif bold;
     color: #000000;
     text-align: center;
+    line-height: 4;
+    font-weight: bold;
 }
 .icono{
-    color: #660066;
+    /* color: #660066; */
     display: inline;
     list-style: none;
     float: left;
@@ -25,4 +30,15 @@ header {
 }
 .works{
     background-color: #660066;
+    line-height: 4;
+}
+.exp{
+    background-color: #ffffff;
+    border-color: black;
+}
+.centrado{
+    text-align: center;
+}
+.card-text{
+    line-height: normal;
 }
