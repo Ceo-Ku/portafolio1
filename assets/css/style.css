@@ -43,3 +43,10 @@ header {
 .card-text{
     line-height: normal;
 }
+.der{
+    text-align: right;
+    padding: 0;
+}
+.izq{
+    text-align: left;
+}
