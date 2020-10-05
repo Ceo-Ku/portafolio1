@@ -1,3 +1,28 @@
 .navbar{
     background-color: #660066;
 }
+.mayu{
+    font-family: 'Oswald', sans-serif bold;
+    color: #ffffff;
+}
+header {
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mayuneg{
+    font-family: 'Oswald', sans-serif bold;
+    color: #000000;
+    text-align: center;
+}
+.icono{
+    color: #660066;
+    display: inline;
+    list-style: none;
+    float: left;
+    padding: 0;
+    text-align:center;
+}
+.works{
+    background-color: #660066;
+}
